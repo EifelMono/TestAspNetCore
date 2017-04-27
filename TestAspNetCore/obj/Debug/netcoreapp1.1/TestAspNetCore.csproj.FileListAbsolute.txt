@@ -1,0 +1,9 @@
+C:\Dev\github\TestAspNetCore\TestAspNetCore\bin\Debug\netcoreapp1.1\TestAspNetCore.deps.json
+C:\Dev\github\TestAspNetCore\TestAspNetCore\bin\Debug\netcoreapp1.1\TestAspNetCore.runtimeconfig.json
+C:\Dev\github\TestAspNetCore\TestAspNetCore\bin\Debug\netcoreapp1.1\TestAspNetCore.runtimeconfig.dev.json
+C:\Dev\github\TestAspNetCore\TestAspNetCore\bin\Debug\netcoreapp1.1\TestAspNetCore.dll
+C:\Dev\github\TestAspNetCore\TestAspNetCore\obj\Debug\netcoreapp1.1\TestAspNetCore.csprojResolveAssemblyReference.cache
+C:\Dev\github\TestAspNetCore\TestAspNetCore\obj\Debug\netcoreapp1.1\TestAspNetCore.AssemblyInfo.cs
+C:\Dev\github\TestAspNetCore\TestAspNetCore\bin\Debug\netcoreapp1.1\TestAspNetCore.pdb
+C:\Dev\github\TestAspNetCore\TestAspNetCore\obj\Debug\netcoreapp1.1\TestAspNetCore.dll
+C:\Dev\github\TestAspNetCore\TestAspNetCore\obj\Debug\netcoreapp1.1\TestAspNetCore.pdb
